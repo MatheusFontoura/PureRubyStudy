@@ -49,3 +49,13 @@ For - Usado para percorrer uma array
 While - Repete o código até a condição for verdadeira
 Times - Executa por x vezes
 Do/While - Laço de repetição quando houver um break (loop)
+
+# Collections
+Conjunto de dados semelhantes em uma unidade.
+Array
+Hash
+
+  Iterações
+Each - Percorre a coleção similar ao for, porém, não sobrescrevendo as variaveis
+Map - Cria um array baseado no outro array existente
+Select - Realiza a seleção de elementos através de uma condição
