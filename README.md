@@ -1,6 +1,6 @@
 # PureRubyStudy
 
-<b>Repositório para curso de Ruby Puro</b>
+<b>Repositório para curso de Ruby Puro</b><br>
 - Introdução ao Ruby (HelloWorld)
 - Conceitos Básicos
 - Estruturas de Controle
@@ -21,9 +21,9 @@ String - Conjunto de caracteres<br>
 Array - Conjunto de dados<br>
 Symbol - Semelhante a string, porém imutável (Inicia com :)<br>
 Hash - Coleção de dados, definidos por chaves {}<br>
-  // .class retorna o tipo de dado do objeto<br>
+<i>.class retorna o tipo de dado do objeto</i><br>
 
-<b>Operadores Matemáticos</b>
+<b>Operadores Matemáticos</b><br>
 (+) - Adição<br>
 (-) - Subtração<br>
 (*) - Multiplicação<br>
@@ -31,19 +31,19 @@ Hash - Coleção de dados, definidos por chaves {}<br>
 (%) - Módulo<br>
 (**) - Expoente<br>
 
-<b>Entrada/Saída</b>
+<b>Entrada/Saída</b><br>
 Saída - Print/puts<br>
 Entrada - gets.chomp<br>
 
 # Estruturas de Controle
-<b>Condicional</b>
+<b>Condicional</b><br>
 If - Verifica se é verdadeira(true) e executa o código<br>
 Else - Verifica se a condição é falsa(false) e executa o código do else<br>
 Elsif - Quando há necessidade de verificar mais de 01 condições do If<br>
 Unless - Contrário do If, executa apenas se a condição é falsa<br>
 Case - Verifica os casos para executar as ações<br>
 
-<b>Iteração</b>
+<b>Iteração</b><br>
 For - Usado para percorrer uma array<br>
 While - Repete o código até a condição for verdadeira<br>
 Times - Executa por x vezes<br>
@@ -54,7 +54,7 @@ Conjunto de dados semelhantes em uma unidade.<br>
 Array<br>
 Hash<br>
 
-  <b>Iterações</b>
+  <b>Iterações</b><br>
 Each - Percorre a coleção similar ao for, porém, não sobrescrevendo as variaveis<br>
 Map - Cria um array baseado no outro array existente<br>
 Select - Realiza a seleção de elementos através de uma condição<br>
