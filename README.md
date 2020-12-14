@@ -24,12 +24,12 @@ Hash - Coleção de dados, definidos por chaves {}<br>
   // .class retorna o tipo de dado do objeto<br>
 
 <b>Operadores Matemáticos<b>
-+ - Adição<br>
-- - Subtração<br>
-* - Multiplicação<br>
-/ - Divisão<br>
-% - Módulo<br>
-** - Expoente<br>
+(+) - Adição<br>
+(-) - Subtração<br>
+(*) - Multiplicação<br>
+(/) - Divisão<br>
+(%) - Módulo<br>
+(**) - Expoente<br>
 
 <b>Entrada/Saída<b>
 Saída - Print/puts<br>
