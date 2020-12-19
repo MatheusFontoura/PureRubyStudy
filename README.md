@@ -55,6 +55,12 @@ Array<br>
 Hash<br>
 
   <b>Iterações</b><br>
-Each - Percorre a coleção similar ao for, porém, não sobrescrevendo as variaveis<br>
+Each - Percorre a coleção similar ao for, porém, não sobrescrevendo as variáveis<br>
 Map - Cria um array baseado no outro array existente<br>
 Select - Realiza a seleção de elementos através de uma condição<br>
+
+# Métodos
+Formas de organizar instruções em um programa, permitindo a reutilização de códigos <br>
+
+# Gems
+Pacote com funcionalidades para resolver uma necessidade (Similar a biblioteca) <br>
