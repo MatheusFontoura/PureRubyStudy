@@ -64,3 +64,9 @@ Formas de organizar instruções em um programa, permitindo a reutilização de 
 
 # Gems
 Pacote com funcionalidades para resolver uma necessidade (Similar a biblioteca) <br>
+
+# POO
+- Abstração
+- Encapsulamento
+- Herança
+- Polimorfismo
